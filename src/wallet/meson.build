@@ -1,5 +1,6 @@
 executable('wart-wallet', vcs_dep, 
   [
+    './start',
     './api_call.cpp', 
     './cmdline/cmdline.cpp', 
     './main.cpp', 
